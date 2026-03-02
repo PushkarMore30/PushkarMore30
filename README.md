@@ -1,16 +1,31 @@
-## Hi there 👋
+Hi 👋, I'm Pushkar More  
+🎓 11th Science Student | Future Engineer | Tech Enthusiast  
 
-<!--
-**PushkarMore30/PushkarMore30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 About Me  
+🎓 11th Science Student  
+💻 Learning Programming & Technology  
+🚀 Exploring Coding, AI & Software Development  
+📈 Goal: Software Engineer / AI Developer  
 
-Here are some ideas to get you started:
+🛠 Skills I'm Learning  
+💻 Programming  
+C | C++ | Python (Beginner Level)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 Web Basics  
+HTML | CSS  | Javascript
+
+📚 Currently Learning  
+Data Structures Basics  
+Problem Solving  
+Logical Thinking  
+
+🚀 Mini Projects  
+🔹 Simple Calculator (C)  
+🔹 Student Marks Program  
+🔹 Basic HTML Website  
+
+🌟 Interests  
+🤖 Artificial Intelligence  
+💻 Software Development  
+📊 Competitive Programming  
+
